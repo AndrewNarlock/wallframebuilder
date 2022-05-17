@@ -302,6 +302,4 @@ function draw(){
 	ctx.lineTo(115, calcht * .7);
 	ctx.fillText(heitt + " inches", 10, calcht * .7);
 	ctx.stroke();
-	
-
 }
